@@ -83,7 +83,7 @@ function ordenar(criterio, array) {
 
             const filtradoAlimento = productos.filter((producto) => producto.descripcion.toLowerCase().includes(descripcionAlimento))
 
-            //----------------------Fin de filtrar libros de acuerdo al autor-------------------------//
+            //----------------------Fin de filtrar productos de acuerdo a la Descripción y realizar la Compra-------------------------//
 
 
             //--------------------------Mostrar el total de la compra-----------------------------//
